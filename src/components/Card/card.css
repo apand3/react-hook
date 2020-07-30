@@ -1,0 +1,19 @@
+.card{
+    max-width: 600px;
+    min-width: 300px;
+    min-height: 200px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;   
+padding: 30px;
+font-size: 20px;
+}
+.card>button{
+    cursor: pointer;
+    min-width: 90px;
+    min-height: 30px;
+    margin: 10px 0;
+    padding: 10px;
+    
+}
